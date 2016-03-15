@@ -6,6 +6,6 @@ the number represents sequence number.
 "S" represents "Second".
 "T" represents "Third".
 "F" and "S" are two frames extracted from same video.They are usually acquired during a short time interval. And they include same features.
-"T" image is stitched by "F" and "T". Same features are lined with different colors. 
+"T" image is stitched by "F" and "S". Same features are lined with different colors. 
 
 Second, the sample folder. It contains three fragments of gastroscope videos. If necessary, full videos can also be uploaded.
